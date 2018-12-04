@@ -1,0 +1,7 @@
+C:\Users\boyhu\source\repos\Problema2\Problema2\bin\Debug\Problema2.exe.config
+C:\Users\boyhu\source\repos\Problema2\Problema2\bin\Debug\Problema2.exe
+C:\Users\boyhu\source\repos\Problema2\Problema2\bin\Debug\Problema2.pdb
+C:\Users\boyhu\source\repos\Problema2\Problema2\obj\Debug\Problema2.csprojAssemblyReference.cache
+C:\Users\boyhu\source\repos\Problema2\Problema2\obj\Debug\Problema2.csproj.CoreCompileInputs.cache
+C:\Users\boyhu\source\repos\Problema2\Problema2\obj\Debug\Problema2.exe
+C:\Users\boyhu\source\repos\Problema2\Problema2\obj\Debug\Problema2.pdb
